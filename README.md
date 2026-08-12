@@ -50,8 +50,17 @@ Project	Description	Technologies
 This section will be updated with completed certifications.
 
 
-📈 GitHub Activity:
-I use GitHub to document my learning, projects, experiments, and progress in AI & Data Science.
+ 📊 GitHub Stats:
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=DharaniNandyala&show_icons=true&hide_border=true&rank_icon=github" height="165">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DharaniNandyala&layout=compact&hide_border=true" height="165">
+</p>
+
+
+🔥 Contribution Streak:
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=DharaniNandyala&hide_border=true">
+</p>
 
 
 🤝 Connect With Me
