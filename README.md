@@ -56,7 +56,7 @@ I enjoy working with **Python, SQL, data-processing libraries, visualization too
 - Object-Oriented Programming
 - Data Structures & Algorithms
 - Practical AI & Data Projects
-- Emerging AI Technologies
+- Emerging AI Technologies.
 
 ### Open To
 
