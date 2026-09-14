@@ -184,7 +184,7 @@ A collection of practical analytical workflows focused on **data cleaning, analy
 - Building practical projects using Python, SQL and data visualization technologies.
 - Strengthening foundations in OOP, DBMS and Data Structures & Algorithms.
 - Participating in technical projects and hackathon-oriented activities.
-- Continuously expanding knowledge of emerging a AI technologies.
+- Continuously expanding knowledge of emerging  AI technologies.
 
 **Skills**
 
